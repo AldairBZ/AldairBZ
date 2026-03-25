@@ -1,8 +1,17 @@
-# 👋 Hey, I'm Scheneider
+# 👋 Hey, I'm ScheneiderBZ
 
-💻 Backend-focused Developer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Java;Building+APIs+and+Real+Systems;Focused+on+Startups+and+Remote+Work" />
+</p>
+
+---
+
+## 🧠 About Me
+
+💻 Backend-focused developer  
 🚀 Building systems with Python & Java  
 🧠 Interested in APIs, automation and real-world projects  
+🎯 Goal: Work in startups and grow as a professional developer  
 
 ---
 
@@ -18,7 +27,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools
+### Tools & Database
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -26,21 +35,38 @@
 
 ## 🔥 Featured Projects
 
-- 🎮 **Tetris Game (Java)** – Classic game built with OOP (currently improving & fixing bugs)
-- 📦 **Inventory Manager (Python)** – CRUD system with SQLite and modular architecture
-- ⚙️ **Automation Scripts (coming soon)**
-- 🚀 **SaaS API Project (coming soon)**
+- 🎮 **Tetris Game (Java)**  
+  Classic game built using OOP principles. Currently improving stability and fixing bugs.
+
+- 📦 **Inventory Management System (Python)**  
+  CRUD system with SQLite and modular architecture.
+
+- ⚙️ **Automation Scripts (coming soon)**  
+  Data processing and API integration tools.
+
+- 🚀 **SaaS API Project (coming soon)**  
+  REST API with authentication, database and clean architecture.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
 - Improving backend skills (Python & Java)
-- Building real-world projects
-- Preparing for remote startup opportunities
+- Learning API development and clean architecture
+- Building real-world projects for startups
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/AldairBZ
+- LinkedIn: https://www.linkedin.com/in/scheneiderb?utm_source=share_via&utm_content=profile&utm_medium=member_android
