@@ -10,8 +10,7 @@
 
 💻 Backend-focused developer  
 🚀 Building systems with Python & Java  
-🧠 Interested in APIs, automation and real-world projects  
-🎯 Goal: Work in startups and grow as a professional developer  
+🧠 Interested in APIs, automation and real-world projects   
 
 ---
 
