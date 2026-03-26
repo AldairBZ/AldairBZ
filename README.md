@@ -48,16 +48,12 @@
   REST API with authentication, database and clean architecture.
 
 ---
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&v=1" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&v=1" alt="Top Languages" height="150" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 ---
 
 ## 🎯 Current Focus
