@@ -68,5 +68,5 @@
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/AldairBZ]
-- LinkedIn: [https://www.linkedin.com/in/scheneiderbz19/]
+- GitHub: https://github.com/AldairBZ
+- LinkedIn: https://www.linkedin.com/in/scheneiderbz19/
