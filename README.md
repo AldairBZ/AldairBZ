@@ -50,7 +50,7 @@
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
