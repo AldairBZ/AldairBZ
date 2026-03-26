@@ -5,6 +5,7 @@
 </p>
 
 ---
+![GitHub Followers](https://img.shields.io/github/followers/AldairBZ?style=social)  
 
 ## 🧠 About Me
 
@@ -50,7 +51,6 @@
 ---
 ## 📈 GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/AldairBZ?style=social)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 
