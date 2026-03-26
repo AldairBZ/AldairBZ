@@ -50,15 +50,9 @@
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://img.shields.io/github/followers/AldairBZ?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/AldairBZ?style=social)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-## 📊 GitHub Contributions & Activity
-
-![Pull Requests](https://img.shields.io/github/issues-pr/AldairBZ?style=flat-square)  
-![Contributions](https://img.shields.io/github/commit-activity/m/AldairBZ?style=flat-square)  
-![Open Issues](https://img.shields.io/github/issues/AldairBZ?style=flat-square)  
-![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/AldairBZ?style=flat-square)  
 
 ---
 
