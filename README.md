@@ -1,72 +1,30 @@
-# 👋 Hey, I'm ScheneiderBZ
+## Hola, soy Scheneider 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Java;Building+APIs+and+Real+Systems;Focused+on+Startups+and+Remote+Work" />
-</p>
+Desarrollador **Full Stack junior** en Tarragona. Trabajo sobre todo con **Java y Spring Boot** en el backend y con **React** en el frontend, y uso Python cuando hay algo que automatizar.
 
----
-![GitHub Followers](https://img.shields.io/github/followers/AldairBZ?style=social)  
+Antes de programar fui ilustrador digital. Por eso me importa tanto que el código funcione bien como que la interfaz se entienda.
 
-## 🧠 About Me
+- 🏆 **2.º puesto en el Hackathon Tarragona 2025**: en un equipo de cuatro hicimos una solución con IA para agilizar trámites del Ajuntament, con modelos en local (Ollama) para que funcionara en un ordenador normal.
+- 🎓 **Desenvolupament Web FullStack amb Java** (576 h, Fundación Esplai) · **Java SE 11 Programming II** (La Salle) · **Microsoft Azure Fundamentals** (AZ-900, AI-900, DP-900, SC-900)
+- 📍 Busco mi primer puesto como desarrollador junior en Tarragona, en remoto o híbrido.
 
-💻 Backend-focused developer  
-🚀 Building systems with Python & Java  
-🧠 Interested in APIs, automation and real-world projects   
+### Proyectos
 
----
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| [**TetrisGame**](https://github.com/AldairBZ/TetrisGame) | Tetris de escritorio con ranking online, tests y CI | Java · Swing · MySQL · JUnit · Maven |
+| [**BlackJack en COBOL**](https://github.com/AldairBZ/BlacJack-Proyecto-COBOL) | El motor del juego en COBOL y la interfaz en Python, comunicados mediante archivos | COBOL · Python · Tkinter |
+| [**Gestor Bon Gust**](https://github.com/AldairBZ/GestorBonGustProject) | Inventario para una panadería: productos y movimientos de stock | Python · SQLite |
+| [**Resident Evil Fan Web**](https://github.com/AldairBZ/A2_ResidentEvil_Web) · [demo](https://aldairbz.github.io/A2_ResidentEvil_Web/) | Web de 4 páginas, responsive y con animaciones | HTML5 · CSS3 |
+| [**LifeLevelUp**](https://github.com/AldairBZ/LifeLevelUp) | App web con frontend en React y backend propio | React · JavaScript |
 
-## 🛠️ Tech Stack
+### Tecnologías
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white)
+- **Backend:** Java · Spring Boot · Hibernate/JPA · APIs REST · Python · COBOL
+- **Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3
+- **Datos:** MySQL · SQLite · SQL
+- **Herramientas:** Git · Maven · JUnit · GitHub Actions · Microsoft Azure
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Contacto
 
-### Tools & Database
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-- 🎮 **Tetris Game (Java)**  
-  Classic game built using OOP principles. Currently improving stability and fixing bugs.
-
-- 📦 **Inventory Management System (Python)**  
-  CRUD system with SQLite and modular architecture.
-
-- ⚙️ **Automation Scripts (coming soon)**  
-  Data processing and API integration tools.
-
-- 🚀 **SaaS API Project (coming soon)**  
-  REST API with authentication, database and clean architecture.
-
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AldairBZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AldairBZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Improving backend skills (Python & Java)
-- Learning API development and clean architecture
-- Building real-world projects for startups
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/AldairBZ
-- LinkedIn: https://www.linkedin.com/in/scheneiderbz19/
+[LinkedIn](https://www.linkedin.com/in/scheneiderbz19/) · aldairbz1719@gmail.com
