@@ -20,7 +20,7 @@ Desarrollador **Full Stack junior**. Trabajo sobre todo con **Java y Spring Boot
 
 Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el código funcione bien como que la interfaz se entienda.
 
-- 🏆 **2.º puesto en el Hackathon Tarragona 2025**: en un equipo de cuatro hicimos una solución con IA para agilizar trámites del Ajuntament, con modelos en local (Ollama) para que funcionara en un ordenador normal.
+- 🏆 **2.º puesto en el [Hackathon Tarragona 2025](https://github.com/FerdisJ/HackaTON)**: en un equipo de cuatro hicimos una solución con IA para agilizar trámites del Ajuntament, con modelos en local (Ollama) para que funcionara en un ordenador normal.
 - 🎓 **Desenvolupament Web FullStack amb Java** (576 h, Fundación Esplai) · **Java SE 11 Programming II** (La Salle)
 - ☁️ **Microsoft Azure Fundamentals**: AZ-900 · AI-900 · DP-900 · SC-900
 - 🎯 Busco mi **primer puesto como desarrollador junior**.
@@ -43,7 +43,7 @@ Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el c
 | 🃏 | [**BlackJack en COBOL**](https://github.com/AldairBZ/BlacJack-Proyecto-COBOL) | El motor del juego en COBOL y la interfaz en Python, comunicados mediante archivos | COBOL · Python · Tkinter |
 | 🥐 | [**Gestor Bon Gust**](https://github.com/AldairBZ/GestorBonGustProject) | Inventario para una panadería: productos y movimientos de stock | Python · SQLite |
 | 🧟 | [**Resident Evil Fan Web**](https://github.com/AldairBZ/A2_ResidentEvil_Web) · [**demo**](https://aldairbz.github.io/A2_ResidentEvil_Web/) | Web de 4 páginas, responsive y con animaciones | HTML5 · CSS3 |
-| 📈 | [**LifeLevelUp**](https://github.com/AldairBZ/LifeLevelUp) | App web con frontend en React y backend propio | React · JavaScript |
+| 📈 | [**LifeLevelUp**](https://github.com/AldairBZ/LifeLevelUp) | Mejora tus hábitos como en un videojuego: logros, comunidad y un asistente con IA | React · Node.js · Express · MongoDB · JWT |
 
 ---
 
