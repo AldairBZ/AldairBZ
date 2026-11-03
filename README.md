@@ -19,13 +19,13 @@
 
 <p align="center">
   <a href="https://scheneiderbz.pages.dev/?ref=github">
-    <img src="https://scheneiderbz.pages.dev/og.jpg" alt="Portfolio de Scheneider Baltazar" width="100%" />
+    <img src="assets/portfolio.gif" alt="Portada de mi portfolio: un planeta dibujado con caracteres que gira" width="100%" />
   </a>
 </p>
 
 <p align="center">
   Nada de capturas: en <a href="https://scheneiderbz.pages.dev/?ref=github"><b>scheneiderbz.pages.dev</b></a> juegas a mi Tetris en Java, usas el gestor en Python con SQLite y repartes cartas en un BlackJack escrito en COBOL, todo dentro de la página.<br />
-  <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio →</b></a> · <a href="https://scheneiderbz.pages.dev/cv/Scheneider_Baltazar_CV_ES.pdf"><b>Descargar mi CV (PDF)</b></a>
+  <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio →</b></a>
 </p>
 
 ---
