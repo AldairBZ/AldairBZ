@@ -40,10 +40,10 @@ Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el c
 | | Proyecto | Qué es | Tecnologías |
 |:-:|---|---|---|
 | 🎮 | [**TetrisGame**](https://github.com/AldairBZ/TetrisGame) | Tetris de escritorio con ranking en MySQL, tests y CI | Java · Swing · MySQL · JUnit · Maven |
-| 🃏 | [**BlackJack en COBOL**](https://github.com/AldairBZ/BlacJack-Proyecto-COBOL) | El motor del juego en COBOL y la interfaz en Python, comunicados mediante archivos | COBOL · Python · Tkinter |
+| 🃏 | [**BlackJack en COBOL**](https://github.com/AldairBZ/BlackJack-Proyecto-COBOL) | El motor del juego en COBOL y la interfaz en Python, comunicados mediante archivos | COBOL · Python · Tkinter |
 | 🥐 | [**Gestor Bon Gust**](https://github.com/AldairBZ/GestorBonGustProject) | Inventario para una panadería: productos y movimientos de stock | Python · SQLite |
 | 🧟 | [**Resident Evil Fan Web**](https://github.com/AldairBZ/A2_ResidentEvil_Web) · [**demo**](https://aldairbz.github.io/A2_ResidentEvil_Web/) | Web de 4 páginas, responsive y con animaciones | HTML5 · CSS3 |
-| 🌍 | [**LifeLevelUp**](https://github.com/AldairBZ/Frontend) · [**demo**](https://lifelevelup.08-pruebas.workers.dev) | Proyecto final del bootcamp: mejora tus hábitos como en un videojuego, con logros, comunidad y un asistente con IA | React · Node.js · Express · MongoDB · JWT · OAuth |
+| 🌍 | [**LifeLevelUp**](https://github.com/AldairBZ/LifeLevelUp) · [**demo**](https://lifelevelup.08-pruebas.workers.dev) | Proyecto final del bootcamp: mejora tus hábitos como en un videojuego, con logros, comunidad y un asistente con IA | React · Node.js · Express · MongoDB · JWT · OAuth |
 
 ---
 
