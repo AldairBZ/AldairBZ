@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://scheneiderbz.pages.dev/?ref=github"><img src="https://img.shields.io/badge/Portfolio-scheneiderbz.pages.dev-D6502E?style=for-the-badge&logo=cloudflarepages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/scheneiderbz19/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aldairbz1719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Tarragona-Remoto%20%7C%20H%C3%ADbrido-FF8A50?style=for-the-badge" />
 </p>
 
