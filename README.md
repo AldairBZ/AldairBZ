@@ -7,9 +7,25 @@
 </p>
 
 <p align="center">
+  <a href="https://scheneiderbz.pages.dev/?ref=github"><img src="https://img.shields.io/badge/Portfolio-scheneiderbz.pages.dev-D6502E?style=for-the-badge&logo=cloudflarepages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/scheneiderbz19/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aldairbz1719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Tarragona-Remoto%20%7C%20H%C3%ADbrido-FF8A50?style=for-the-badge" />
+</p>
+
+---
+
+### 🌐 Mi portfolio: los proyectos se ejecutan en tu navegador
+
+<p align="center">
+  <a href="https://scheneiderbz.pages.dev/?ref=github">
+    <img src="https://scheneiderbz.pages.dev/og.jpg" alt="Portfolio de Scheneider Baltazar" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  Nada de capturas: en <a href="https://scheneiderbz.pages.dev/?ref=github"><b>scheneiderbz.pages.dev</b></a> juegas a mi Tetris en Java, usas el gestor en Python con SQLite y repartes cartas en un BlackJack escrito en COBOL, todo dentro de la página.<br />
+  <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio →</b></a> · <a href="https://scheneiderbz.pages.dev/cv/Scheneider_Baltazar_CV_ES.pdf"><b>Descargar mi CV (PDF)</b></a>
 </p>
 
 ---
@@ -39,6 +55,7 @@ Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el c
 
 | | Proyecto | Qué es | Tecnologías |
 |:-:|---|---|---|
+| 🪐 | [**Portfolio_BZ**](https://github.com/AldairBZ/Portfolio_BZ) · [**web**](https://scheneiderbz.pages.dev/?ref=github) | Mi portfolio: Java, Python y COBOL ejecutándose en el navegador, en tres idiomas y con 48 pruebas en CI | React · TypeScript · Cloudflare · Vitest · Playwright |
 | 🎮 | [**TetrisGame**](https://github.com/AldairBZ/TetrisGame) | Tetris de escritorio con ranking en MySQL, tests y CI | Java · Swing · MySQL · JUnit · Maven |
 | 🃏 | [**BlackJack en COBOL**](https://github.com/AldairBZ/BlackJack-Proyecto-COBOL) | El motor del juego en COBOL y la interfaz en Python, comunicados mediante archivos | COBOL · Python · Tkinter |
 | 🥐 | [**Gestor Bon Gust**](https://github.com/AldairBZ/GestorBonGustProject) | Inventario para una panadería: productos y movimientos de stock | Python · SQLite |
