@@ -24,7 +24,7 @@
 
 <p align="center">
   Nada de capturas: en <a href="https://scheneiderbz.pages.dev/?ref=github"><b>scheneiderbz.pages.dev</b></a> juegas a mi Tetris en Java, usas el gestor en Python con SQLite y repartes cartas en un BlackJack escrito en COBOL, todo dentro de la página.<br />
-  <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio →</b></a>
+  <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio</b></a>
 </p>
 
 ---
