@@ -45,7 +45,17 @@ Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el c
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,react,ts,js,html,css,mysql,sqlite,git,github,githubactions,azure&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,rust,react,ts,js,html,css,mysql,sqlite,git,github,githubactions,azure&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-en%20mi%20proyecto%20principal-1A1B27?style=for-the-badge&logo=rust&logoColor=FF8A50" />
+  <img src="https://img.shields.io/badge/NSIS-instaladores%20de%20Windows-1A1B27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-en%20camino-1A1B27?style=for-the-badge&logo=opengl&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>Rust y NSIS los uso en mi proyecto principal, todavía privado: el núcleo en Rust y su instalador para Windows. GLSL llega con su parte visual.</sub>
 </p>
 
 ---
