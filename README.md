@@ -49,13 +49,8 @@ Antes de programar fui **ilustrador digital**. Por eso me importa tanto que el c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-en%20mi%20proyecto%20principal-1A1B27?style=for-the-badge&logo=rust&logoColor=FF8A50" />
-  <img src="https://img.shields.io/badge/NSIS-instaladores%20de%20Windows-1A1B27?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLSL-en%20camino-1A1B27?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
-
-<p align="center">
-  <sub>Rust y NSIS los uso en mi proyecto principal, todavía privado: el núcleo en Rust y su instalador para Windows. GLSL llega con su parte visual.</sub>
+  <img src="https://img.shields.io/badge/NSIS-01B0F0?style=for-the-badge&logo=nsis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 ---
