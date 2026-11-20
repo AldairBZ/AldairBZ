@@ -27,6 +27,10 @@
   <a href="https://scheneiderbz.pages.dev/?ref=github"><b>Entrar al portfolio</b></a>
 </p>
 
+<p align="center">
+  <sub><b>Versión 3.0</b> · 20 de noviembre de 2026: nueva paleta grafito y champán, mis últimos commits grandes en directo desde GitHub, y Rust, NSIS y GLSL en las tecnologías.</sub>
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mí
